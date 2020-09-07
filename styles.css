@@ -1,0 +1,67 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.container {
+    margin: 0px !important;
+    padding: 0px !important;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
+
+.header {
+    background-color: #16213e !important;
+    color: #fff;
+    width: 100%;
+    height: 70px;
+    margin: 0;
+    padding: 0;
+}
+
+.header h2{
+    padding: 10px;
+    text-align: center;
+}
+
+.add-new-birthday {
+    margin: 10px 10px;
+    padding: 20px;
+}
+
+.add-new-birthday h3 {
+    padding-bottom: 5px;
+}
+
+.add-birthday-form {
+    margin: 20px;
+}
+
+.birthdays {
+    margin: 10px 10px;
+    padding: 20px;
+}
+
+.birthdays h3 {
+    padding: 5px 0px;
+}
+
+.birthdays-table {
+    width: 100%;
+    padding: 5px 20px;
+    text-align: center;
+}
+
+.birthdays-table thead {
+    background-color: #ddd;
+}
+
+.birthdays thead th {
+    padding: 10px;
+}
+
+.birthdays-table td {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0px;
+}
+
+
